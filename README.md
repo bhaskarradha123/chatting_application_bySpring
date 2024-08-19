@@ -1,7 +1,6 @@
 # chatting_application_bySpring
 
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/SpringChattingApplication)   ![](https://img.shields.io/github/languages/top/gowthamrajk/SpringChattingApplication)
 
 - It is a Live web based Chatting Application 🔅 named WE-CHAT which can help you to get connected with your friends 👨‍👦‍👦 and chat online.
 
